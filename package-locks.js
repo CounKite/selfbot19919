@@ -313,6 +313,3 @@ client.login(ayarlar.token);
 
 
 });
-
-bot.user.setActivity("Davet Ödüllerinde Para Kasmayı", {type: "WATCHING"});
-});
